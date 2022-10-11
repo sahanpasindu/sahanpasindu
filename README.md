@@ -14,7 +14,7 @@
 - 📫 You can reach me on Facebook (https://www.fb.com/sahanpasindu22/) 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahanpasindu&show_icons=true&theme=gruvbox&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&line_height=20&include_all_commits=true&card_width=300) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahanpasindu&theme=dracula&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&line_height=30)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahanpasindu&theme=dracula&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&line_height=25&langs_count=10&card_width=375)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahanpasindu&show_icons=true&theme=gruvbox&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&line_height=28.99&include_all_commits=true&card_width=400) 
 
 **Here are some public repositories I have shared with the world 🌏 
   Those are related to above mentioned my youtube channel, Feel free to give a 🌟 for a repository**
