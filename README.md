@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahanpasindu 😊
 
-- 🧑🏻‍💻 I'm a Youtuber at [Code Camp Sri Lanka](https://www.youtube.com/c/CodeCampSriLanka) (Subs 15,100 22/10/11)
+- 🧑🏻‍💻 I'm a Youtuber at [Code Camp Sri Lanka](https://www.youtube.com/c/CodeCampSriLanka) (**Subs 15,100** [as of 2022])
 
 - 👀 I’m interested in
     - Mobile App Development (Native Android App Development, Frameworks : Flutter) 
@@ -20,8 +20,8 @@
   Those are related to above mentioned my youtube channel, Feel free to give a 🌟 for a repository**
 
 <a href="https://github.com/sahanpasindu/Flutter-Sinhalen-Video-Series">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sahanpasindu&repo=Flutter-Sinhalen-Video-Series" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sahanpasindu&repo=Flutter-Sinhalen-Video-Series&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/sahanpasindu/Bootstrap-04-Sinhalen-Series">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sahanpasindu&repo=Bootstrap-04-Sinhalen-Series" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sahanpasindu&repo=Bootstrap-04-Sinhalen-Series&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
