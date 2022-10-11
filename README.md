@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @sahanpasindu
-- 👀 I’m interested in Mobile App Development (Flutter, Native Android App Development) CSS (Frameworks, ei. Bootstrap), JavaScript (Frameworks, React)
+- 👋 Hi, I’m @sahanpasindu 😊
+- 👀 I’m interested in 👇🏻
+    - Mobile App Development (Native Android App Development, Frameworks : Flutter) 
+    - CSS (Frameworks: Bootstrap) 
+    - JavaScript (Vanilla Js, Frameworks: React)
+    - Programming Languages (Java, JavaScript, Dart)
 - 🌱 I’m currently learning more about JS frameworks and Mobile Application development 
 - 📫 You can reach me on Facebook (https://www.fb.com/sahanpasindu22/) 
 
