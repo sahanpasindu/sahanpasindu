@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahanpasindu 😊
 
-- I'm a Youtuber at [Code Camp Sri Lanka]([https://www.youtube.com/c/CodeCampSriLanka]) (Subs 15,100 22/10/11)
+- I'm a Youtuber at [Code Camp Sri Lanka](https://www.youtube.com/c/CodeCampSriLanka) (Subs 15,100 22/10/11)
 
 - 👀 I’m interested in 👇🏻
     - Mobile App Development (Native Android App Development, Frameworks : Flutter) 
