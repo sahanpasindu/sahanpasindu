@@ -15,7 +15,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahanpasindu&show_icons=true&theme=gruvbox&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahanpasindu&theme=dracula&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) 
 
-HERE ARE SOME PUBLIC REPOSITORIES I HAVE SHARED WITH PUBLIC, THOSE ARE RELATED TO ABOBE MENTIONED MY YOUTUBE CHANNEL 
+**Here are some public repositories I have shared with the public. Those are related to above mentioned my youtube channel, Feel free to give a 🌟 for a repository**
 
 <a href="https://github.com/sahanpasindu/Flutter-Sinhalen-Video-Series">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sahanpasindu&repo=Flutter-Sinhalen-Video-Series" />
