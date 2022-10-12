@@ -11,7 +11,7 @@
     
 - 🌱 I’m currently learning more about JS frameworks and Mobile Application development 
 
-- 📫 You can reach me on Facebook (https://www.fb.com/sahanpasindu22/) 
+- 📫 You can reach me on [Facebook](https://www.fb.com/sahanpasindu22)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahanpasindu&theme=dracula&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&line_height=25&langs_count=10&card_width=375)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahanpasindu&show_icons=true&theme=gruvbox&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&line_height=28.99&include_all_commits=true&card_width=400) 
