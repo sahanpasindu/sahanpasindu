@@ -2,7 +2,7 @@
 
 **` 🧑🏻‍💻 I'm a Youtuber/Tutor/Software Engineer `**
 
-I'm a full-time Software Engineer and content creator building my version of the digital world. All coding projects are built from the ground up. All video content is built the same way, I publish that content on my YouTube channel [Code Camp Sri Lanka](https://www.youtube.com/c/CodeCampSriLanka) to more than 15k subscribers.
+As a software engineer and content creator, I dedicate myself to building and crafting the digital world from the ground up. My coding projects and video content on my YouTube channel, [Code Camp Sri Lanka](https://www.youtube.com/c/CodeCampSriLanka), showcase my unique approach and ideas to a community of over 16k subscribers. I am constantly pushing myself to create and innovate, constantly striving to leave my mark on the digital landscape
 
 <p align="center">
       <a href="https://www.youtube.com/c/CodeCampSriLanka?sub_confirmation=1">
@@ -45,7 +45,7 @@ I'm a full-time Software Engineer and content creator building my version of the
     - CSS (Frameworks: Bootstrap) 
     - JavaScript (Vanilla Js, Frameworks: React)
     - Programming Languages (Java, JavaScript, Dart)
-    - Backend Web Development ( [PHP, Frameworks: Laravel] [JS, Frameworks: NodeJS] )
+    - Backend Web Development ([PHP, Frameworks: Laravel] [JS, Frameworks: NodeJS])
     
 <br>
 
