@@ -2,7 +2,7 @@
 
 **` 🧑🏻‍💻 I'm a Youtuber/Tutor/Software Engineer `**
 
-As a software engineer and content creator, I dedicate myself to building and crafting the digital world from the ground up. My coding projects and video content on my YouTube channel, [Code Camp Sri Lanka](https://www.youtube.com/c/CodeCampSriLanka), showcase my unique approach and ideas to a community of over 19k subscribers. I am constantly pushing myself to create and innovate, constantly striving to leave my mark on the digital landscape
+As a software engineer and content creator, I dedicate myself to building and crafting the digital world from the ground up. My coding projects and video content on my YouTube channel, [Code Camp Sri Lanka](https://www.youtube.com/c/CodeCampSriLanka), showcase my unique approach and ideas to a community of over 20k subscribers. I am constantly pushing myself to create and innovate, constantly striving to leave my mark on the digital landscape
 
 <p align="center">
       <a href="https://www.youtube.com/c/CodeCampSriLanka?sub_confirmation=1">
